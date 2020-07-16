@@ -13,7 +13,7 @@ You can have a preview of My Blog by clicking the link below
 
 ## A Caption of the site's image for a flash preview
 
-![Site Preview](./site_page.jpg "title")
+![Site Preview](https://github.com/DavidMwasikira/My_Blog/blob/master/port_images/blog_cap-1.JPG "title")
 
 
 ## Skills
@@ -35,8 +35,13 @@ You can have a preview of My Blog by clicking the link below
 ### - Java
 ### - R Programming
 
+## Data Analytics
 
+## Other Pages
 
+![Site Preview](https://github.com/DavidMwasikira/My_Blog/blob/master/port_images/blog_cap-2.JPG "title")
+
+![Site Preview](https://github.com/DavidMwasikira/My_Blog/blob/master/port_images/blog_cap-3.JPG "title")
 
 ## About
 
@@ -44,5 +49,5 @@ You can have a preview of My Blog by clicking the link below
 
 
 
-## Data Analytics
+
 
