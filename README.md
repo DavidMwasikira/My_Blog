@@ -1,7 +1,7 @@
-# My_Blog
+# My_Blog: David Mwasikira
 David Mwasikira's Blog
 
-# [David M - Blog]
+# [Features My Portfolio & Blog]
 
 
 ## Preview
