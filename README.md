@@ -6,11 +6,15 @@ David Mwasikira's Blog
 
 ## Preview
 
-![Site Preview](./site_page.jpg "title")
-
-[David's Resume] is a preview of the online resume.
+You can have a preview of My Blog by clicking the link below
 
 **[View Live Preview](https://sites.google.com/view/david-mwasikira/david-resume)**
+
+
+## A Caption of the site's image for a flash preview
+
+![Site Preview](./site_page.jpg "title")
+
 
 ## Skills
 
